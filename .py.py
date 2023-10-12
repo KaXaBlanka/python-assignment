@@ -16,7 +16,7 @@ student_data = {
 for student, grades in student_data.items():
     print(f"Student: {student}, Physics Grade: {grades['Physics']}, Math Grade: {grades['Math']}")
 
-
+#PROJE 2
 def calculate_product_sum(numbers):
     product = 1
     total_sum = 0
@@ -27,7 +27,7 @@ def calculate_product_sum(numbers):
     
     return product, total_sum
 
-#PROJE 2
+
 numbers_list_1 = [101, 64]
 numbers_list_2 = [3.50, -5, 13.1111]
 numbers_list_3 = [-55.13, 23]

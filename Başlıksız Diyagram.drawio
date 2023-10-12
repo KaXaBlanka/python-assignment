@@ -1,23 +1,80 @@
-<mxfile host="app.diagrams.net" modified="2023-10-12T12:41:52.652Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="Wc_BVC1UEytkMStWk6bI" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-12T13:07:16.565Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="Pj-d-1pw96_iVodg1kVc" version="22.0.4" type="github">
   <diagram name="Sayfa -1" id="bmsgZCtZZ-5AFsBClS5B">
     <mxGraphModel dx="954" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="w_AHAtuaYFJrgY3aIRM--5" value="BEGIN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w_AHAtuaYFJrgY3aIRM--6" value="Show Student Information" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="80" width="120" height="80" as="geometry" />
+          <mxGeometry x="354" y="130" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="w_AHAtuaYFJrgY3aIRM--7" value="Get Student Information" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w_AHAtuaYFJrgY3aIRM--8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w_AHAtuaYFJrgY3aIRM--6" target="w_AHAtuaYFJrgY3aIRM--7">
+        <mxCell id="w_AHAtuaYFJrgY3aIRM--12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w_AHAtuaYFJrgY3aIRM--5" target="w_AHAtuaYFJrgY3aIRM--6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="230" as="sourcePoint" />
-            <mxPoint x="490" y="180" as="targetPoint" />
+            <mxPoint x="210" y="160" as="sourcePoint" />
+            <mxPoint x="260" y="110" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="w_AHAtuaYFJrgY3aIRM--13" value="Show Student Name and Grades" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w_AHAtuaYFJrgY3aIRM--14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w_AHAtuaYFJrgY3aIRM--7" target="w_AHAtuaYFJrgY3aIRM--13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="490" as="sourcePoint" />
+            <mxPoint x="310" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w_AHAtuaYFJrgY3aIRM--15" value="END" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w_AHAtuaYFJrgY3aIRM--16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w_AHAtuaYFJrgY3aIRM--13" target="w_AHAtuaYFJrgY3aIRM--15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="440" as="sourcePoint" />
+            <mxPoint x="540" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w_AHAtuaYFJrgY3aIRM--17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w_AHAtuaYFJrgY3aIRM--6" target="w_AHAtuaYFJrgY3aIRM--7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="230" as="sourcePoint" />
+            <mxPoint x="560" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w_AHAtuaYFJrgY3aIRM--20" value="Problem1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="384" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w_AHAtuaYFJrgY3aIRM--21" value="Problem 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="384" y="584.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w_AHAtuaYFJrgY3aIRM--28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w_AHAtuaYFJrgY3aIRM--22" target="w_AHAtuaYFJrgY3aIRM--23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w_AHAtuaYFJrgY3aIRM--22" value="BEGIN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w_AHAtuaYFJrgY3aIRM--29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w_AHAtuaYFJrgY3aIRM--23" target="w_AHAtuaYFJrgY3aIRM--24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w_AHAtuaYFJrgY3aIRM--23" value="Get List of Numbers" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="346" y="720" width="136" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="w_AHAtuaYFJrgY3aIRM--30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w_AHAtuaYFJrgY3aIRM--24" target="w_AHAtuaYFJrgY3aIRM--26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w_AHAtuaYFJrgY3aIRM--24" value="Calculate Multiplication and Sum" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="840" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w_AHAtuaYFJrgY3aIRM--33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w_AHAtuaYFJrgY3aIRM--26" target="w_AHAtuaYFJrgY3aIRM--31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w_AHAtuaYFJrgY3aIRM--26" value="Show Results" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="960" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w_AHAtuaYFJrgY3aIRM--31" value="END" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1080" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

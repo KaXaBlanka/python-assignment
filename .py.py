@@ -16,6 +16,10 @@ student_data = {
 for student, grades in student_data.items():
     print(f"Student: {student}, Physics Grade: {grades['Physics']}, Math Grade: {grades['Math']}")
 
+
+
+
+
 #PROBLEM 2
 def calculate_product_sum(numbers):
     product = 1

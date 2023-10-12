@@ -1,4 +1,4 @@
-#PROJE 1
+#PROBLEM 1
 student_data = {
     "Ali B.": {"Physics": 80, "Math": 90},
     "Aisha G.": {"Physics": 78, "Math": 89},
@@ -16,7 +16,7 @@ student_data = {
 for student, grades in student_data.items():
     print(f"Student: {student}, Physics Grade: {grades['Physics']}, Math Grade: {grades['Math']}")
 
-#PROJE 2
+#PROBLEM 2
 def calculate_product_sum(numbers):
     product = 1
     total_sum = 0

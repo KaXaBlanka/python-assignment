@@ -1,4 +1,4 @@
-
+#PROJE 1
 student_data = {
     "Ali B.": {"Physics": 80, "Math": 90},
     "Aisha G.": {"Physics": 78, "Math": 89},
@@ -27,7 +27,7 @@ def calculate_product_sum(numbers):
     
     return product, total_sum
 
-
+#PROJE 2
 numbers_list_1 = [101, 64]
 numbers_list_2 = [3.50, -5, 13.1111]
 numbers_list_3 = [-55.13, 23]

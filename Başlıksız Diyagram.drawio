@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-22T08:17:31.725Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="mi1G2LIlPvaFBiLzqF12" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-22T08:19:42.853Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="TF8-hN-4oVyqhZL4DS4v" version="22.0.6" type="github">
   <diagram name="Sayfa -1" id="bmsgZCtZZ-5AFsBClS5B">
     <mxGraphModel dx="954" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -130,16 +130,17 @@
         <mxCell id="GckN7NiXLWdMpV4eVx2x-17" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="1880" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GckN7NiXLWdMpV4eVx2x-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GckN7NiXLWdMpV4eVx2x-18" target="GckN7NiXLWdMpV4eVx2x-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GckN7NiXLWdMpV4eVx2x-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GckN7NiXLWdMpV4eVx2x-18">
+        <mxCell id="GckN7NiXLWdMpV4eVx2x-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="GckN7NiXLWdMpV4eVx2x-19">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="412.5" y="1910" as="targetPoint" />
+            <mxPoint x="359" y="1825" as="sourcePoint" />
+            <mxPoint x="229" y="1915" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GckN7NiXLWdMpV4eVx2x-18" value="Check if the answer is h &amp;nbsp;or l" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1780" width="145" height="80" as="geometry" />
+        <mxCell id="GckN7NiXLWdMpV4eVx2x-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414.5" y="1860" as="sourcePoint" />
+            <mxPoint x="414.5" y="1910" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="GckN7NiXLWdMpV4eVx2x-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GckN7NiXLWdMpV4eVx2x-19">
           <mxGeometry relative="1" as="geometry">
@@ -204,6 +205,9 @@
         </mxCell>
         <mxCell id="GckN7NiXLWdMpV4eVx2x-57" value="press h,l" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="401" y="2071" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GckN7NiXLWdMpV4eVx2x-58" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration: none; float: none; display: inline !important;&quot;&gt;Check,if the answer is h or l&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359.5" y="1780" width="110" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

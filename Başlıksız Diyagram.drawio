@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-29T18:50:55.388Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="pqYLD3hMwwqIXfkfVSSf" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-29T18:52:08.827Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="tl8ifZdnIUxqNYp-I0T9" version="22.0.8" type="github">
   <diagram name="Sayfa -1" id="bmsgZCtZZ-5AFsBClS5B">
     <mxGraphModel dx="954" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,25 +8,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zvLlXQpkQXXfRNECSAVv-1" value="Begin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="70" width="120" height="80" as="geometry" />
+          <mxGeometry x="354" y="40" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zvLlXQpkQXXfRNECSAVv-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zvLlXQpkQXXfRNECSAVv-2" target="zvLlXQpkQXXfRNECSAVv-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zvLlXQpkQXXfRNECSAVv-2" value="Obtaining Name Information from the User" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zvLlXQpkQXXfRNECSAVv-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zvLlXQpkQXXfRNECSAVv-6" target="zvLlXQpkQXXfRNECSAVv-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zvLlXQpkQXXfRNECSAVv-6" value="Show information" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zvLlXQpkQXXfRNECSAVv-8" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="400" width="120" height="80" as="geometry" />
+          <mxGeometry x="354" y="360" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zvLlXQpkQXXfRNECSAVv-11" value="Problem1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="384" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zvLlXQpkQXXfRNECSAVv-12" value="Problem2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="384" y="510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zvLlXQpkQXXfRNECSAVv-13" value="Begin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="570" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

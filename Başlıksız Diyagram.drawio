@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T06:10:24.129Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="4p4q8qdh7FXSsETg5YCR" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-30T06:17:06.756Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="lreM0ZJ0eOgKB6vJLd5B" version="22.0.8" type="github">
   <diagram name="Sayfa -1" id="bmsgZCtZZ-5AFsBClS5B">
     <mxGraphModel dx="954" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,14 +55,42 @@
         <mxCell id="YRD6eBp8Yp2AXTqyrfmZ-5" value="Convert String to Numbers" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YRD6eBp8Yp2AXTqyrfmZ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YRD6eBp8Yp2AXTqyrfmZ-7" target="YRD6eBp8Yp2AXTqyrfmZ-9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="YRD6eBp8Yp2AXTqyrfmZ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YRD6eBp8Yp2AXTqyrfmZ-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="980" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="YRD6eBp8Yp2AXTqyrfmZ-7" value="Set Previous Variable to Start" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="880" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YRD6eBp8Yp2AXTqyrfmZ-9" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="980" width="120" height="60" as="geometry" />
+        <mxCell id="YRD6eBp8Yp2AXTqyrfmZ-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YRD6eBp8Yp2AXTqyrfmZ-12" target="YRD6eBp8Yp2AXTqyrfmZ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YRD6eBp8Yp2AXTqyrfmZ-12" value="Iteration Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="980" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YRD6eBp8Yp2AXTqyrfmZ-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YRD6eBp8Yp2AXTqyrfmZ-13" target="YRD6eBp8Yp2AXTqyrfmZ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YRD6eBp8Yp2AXTqyrfmZ-13" value="Get Current Digit" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YRD6eBp8Yp2AXTqyrfmZ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YRD6eBp8Yp2AXTqyrfmZ-15" target="YRD6eBp8Yp2AXTqyrfmZ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YRD6eBp8Yp2AXTqyrfmZ-15" value="View Results" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YRD6eBp8Yp2AXTqyrfmZ-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YRD6eBp8Yp2AXTqyrfmZ-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="1400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YRD6eBp8Yp2AXTqyrfmZ-17" value="Update Previous Variable and Check for Next Iteration" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YRD6eBp8Yp2AXTqyrfmZ-21" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1400" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
